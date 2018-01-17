@@ -1,0 +1,10 @@
+
+{
+"preferences" : 
+{
+    "css.valueSeparator": ":",
+    "css.propertyEnd"   : ";",
+    "css.autoInsertVendorPrefixes": true
+}
+
+}

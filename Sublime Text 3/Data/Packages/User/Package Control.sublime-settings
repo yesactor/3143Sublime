@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorHelper",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Less2Css",
+		"Package Control",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-phplint",
+		"Theme - Dark Material"
+	]
+}

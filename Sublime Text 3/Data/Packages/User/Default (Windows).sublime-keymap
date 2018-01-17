@@ -1,0 +1,30 @@
+[
+   //chrome
+  {
+    "keys": ["ctrl+home"],
+    "command": "side_bar_files_open_with",
+    "args":
+    {
+      "paths": [],
+      "application": "D:\\360安全浏览器\\360Chrome\\Chrome\\Application\\360Chrome.exe",
+      "extensions": ".*"
+    }
+  },
+  //chrome2
+  {
+    "keys": ["alt+home"],
+    "command": "side_bar_files_open_with",
+    "args":
+    {
+      "paths": [],
+      "application": "D:\\360Downloads\\Mozilla Firefox\\firefox.exe",
+      "extensions": ".*"
+    }
+  },
+
+  //user
+   {
+    "keys": ["ctrl+1"],
+    "command": "alignment"
+  },
+]
